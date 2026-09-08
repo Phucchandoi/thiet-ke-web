@@ -1,0 +1,34 @@
+<html>
+<head>
+    <title>Định dạng văn bản</title>
+</head>
+
+<body>
+
+    <h2 align="center"  style="color: #006446">Định dạng văn bản</h2>
+    <b><u>Hóa học:</u></b>
+    <i>
+        Nước: <font color="#FF0000">H<sub>2</sub>O</font>
+        - Axit Sunfuric:
+        <font color="#FF0000">H<sub>2</sub>SO<sub>4</sub></font>
+    </i>
+    <br>
+    <b><u>Toán học:</u></b>
+    <i>
+        Phương trình bậc 2:
+        <font color="#FF0000">
+            ax<sup>2</sup> + bx + c = 0
+        </font>
+    </i>
+    <br>
+    <b><u>Tin học:</u></b>
+    <i>Vòng lặp For:</i>
+
+    <pre style="color:#0000CC; background-color:#CCCCCC; border:1px solid #CCCCCC">
+        For i = 0 To 10
+
+                Tong = Tong + 1
+        Next
+    </pre>
+</body>
+</html>
