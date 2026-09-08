@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sử dụng các tag cơ bản</title>
+</head>
+<body>
+
+<h1>Bài 01:Sử dụng các tag cơ bản</h1>
+<h2 style="text-decoration: underline">Yêu Cầu</h2>
+<p style="font-weight: bold">Thiết kế web có nội dung như sau</p>
+<p style="text-align: center">Lập  Trình Web<br>Chào mừng các bạn đến với HTML</p>
+
+</body>
+</html>
